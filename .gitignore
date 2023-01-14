@@ -1,6 +1,9 @@
 data
 dataset
 images
+mask_images
 lfw-deepfunneled
 new__dataset
 new_dataset
+venv
+dlib-19.24
