@@ -1,9 +1,6 @@
-data
-dataset
+
 images
-mask_images
 lfw-deepfunneled
-new__dataset
-new_dataset
 venv
+output
 dlib-19.24
